@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: SQL, Angular, ASP.Net Core, HTML/CSS, Javascript, Rust 
+percentage: 70, 55, 70, 80 ,50, 35

@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+_site
+.sass-cache
+.directory
+Thumbs.db
+_drafts
+.ruby-version
+Gemfile.lock
+=======
+account.key
+domain.key
+
+>>>>>>> 9ca7da8566f4764b093ef523470aedff1b6c1e3b
